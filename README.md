@@ -1,2 +1,2 @@
 # django-minikube-example
-Django with Minikube
+Django with Minikube sample
